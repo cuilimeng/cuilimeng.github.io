@@ -132,10 +132,8 @@ ul#navigation li a:hover, ul#navigation li a.active {
 	color:#FFF;
 }
 div#container {
-	width:730px;
-	float:right;
-	padding-right:25px;
-	left:-5px;
+	width:900px;
+	
 	position:relative;
 	padding-top:0;
 	background:#619ec2;
